@@ -1,0 +1,28 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on Keep a Changelog,
+and this project follows Semantic Versioning.
+
+## [1.0.0] - 2026-05-06
+
+### Added
+- Initial project release
+- Base application structure
+- GitHub repository setup
+- Documentation files
+- CI/CD workflow configuration
+
+### Changed
+- Improved project organization and folder structure
+
+### Fixed
+- Minor setup and configuration issues
+
+## [0.1.0] - 2026-05-01
+
+### Added
+- Project initialization
+- First prototype version
+- Basic testing environment
